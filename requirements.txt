@@ -1,5 +1,6 @@
 streamlit
 pandas
 websocket-client
-upstox-python
+upstox-api
 ta
+.
